@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\EJERCICIO6OBLIGATORIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\EJERCICIO6OBLIGATORIO.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\EJERCICIO6OBLIGATORIO.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\EJERCICIO6OBLIGATORIO.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\bin\Debug\net6.0\EJERCICIO6OBLIGATORIO.exe
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\bin\Debug\net6.0\EJERCICIO6OBLIGATORIO.deps.json
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\bin\Debug\net6.0\EJERCICIO6OBLIGATORIO.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\bin\Debug\net6.0\EJERCICIO6OBLIGATORIO.dll
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\bin\Debug\net6.0\EJERCICIO6OBLIGATORIO.pdb
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\EJERCICIO6OBLIGATORIO.dll
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\refint\EJERCICIO6OBLIGATORIO.dll
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\EJERCICIO6OBLIGATORIO.pdb
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\EJERCICIO6OBLIGATORIO.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\EJERCICIO6OBLIGATORIO\obj\Debug\net6.0\ref\EJERCICIO6OBLIGATORIO.dll

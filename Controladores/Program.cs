@@ -4,9 +4,17 @@ using EJERCICIO6OBLIGATORIO.Servicios;
 namespace EJERCICIO6OBLIGATORIO.Controladores
 {
 
+    /// <summary>
+    /// Clase principal por la que iniciara la aplicacion
+    /// 160124 - jzg
+    /// </summary>
     class Program
     {
-
+        /// <summary>
+        /// Metodo main por donde inicia la app
+        /// 160124 - jzg
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
@@ -34,15 +42,6 @@ namespace EJERCICIO6OBLIGATORIO.Controladores
 
                     case 2:
                         ci.validarOrdenarCliente(listaCliente);
-                        cerrar = false;
-                        break;
-
-                    case 3:
-                        foreach (ClienteDto cuberteria in listaCliente)
-                        {
-                            Console.WriteLine(cuberteria.ToString());
-                        }
-
                         cerrar = false;
                         break;
 

@@ -57,8 +57,7 @@ namespace EJERCICIO6OBLIGATORIO.Servicios
             {
                 for (int c = 0; c < listaCliente.Count - 1 - f; c++)
                 {
-                    /* Intercambia las posiciones entre clientes dependiendo de la edad que tengan
-                     ( cambiando el simbolo mayor que, cambiamos la condicion a cumplir )  */
+                    // ( cambiando el simbolo mayor que, cambiamos la condicion a cumplir )
                     if (listaCliente[c + 1].Edad > listaCliente[c].Edad)
                     {
                         ClienteDto aux = listaCliente[c + 1];
@@ -75,30 +74,7 @@ namespace EJERCICIO6OBLIGATORIO.Servicios
 
         }
 
-        /*
-        public List<ClienteDto> MetodoBurbuja(List<ClienteDto> listaCliente)
-        {
-
-            int edades = listaCliente.Count;
-
-            for (int f = 0; f < listaCliente.Count; f++)
-            {
-                for (int c = 0; c < listaCliente.Count - 1 - f; c++)
-                {
-                    /* Intercambia las posiciones entre clientes dependiendo de la edad que tengan
-                     ( cambiando el simbolo mayor que, cambiamos la condicion a cumplir )  */
-                   /* if (listaCliente[c + 1].Edad > listaCliente[c].Edad)
-                    {
-                        ClienteDto aux = listaCliente[c + 1];
-                        listaCliente[c + 1] = listaCliente[c];
-                        listaCliente[c] = aux;
-                    }
-
-                }
-            }
         
-            return listaCliente;
-        }*/
 
 
         public List<ClienteDto> validarOrdenarCliente(List<ClienteDto> listaCliente)

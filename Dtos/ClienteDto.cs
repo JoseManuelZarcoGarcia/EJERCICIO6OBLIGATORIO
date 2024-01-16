@@ -6,16 +6,12 @@ using System.Threading.Tasks;
 
 namespace EJERCICIO6OBLIGATORIO.Dtos
 {
+    /// <summary>
+    /// Clase que contiene la entidad Cliente
+    /// 160124 - jzg
+    /// </summary>
     internal class ClienteDto
     {
-        /*
-        El dto cliente contendrá los siguientes campos:
-        - idCliente int64
-        - nombreCliente texto
-        - apellidosCliente texto
-        - nombreCompletoCliente texto
-        - edad int32
-        */
 
         // Atributos
 

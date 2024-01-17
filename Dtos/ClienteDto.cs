@@ -44,7 +44,11 @@ namespace EJERCICIO6OBLIGATORIO.Dtos
 
         public ClienteDto() { }
 
-
+        /// <summary>
+        /// Metodo para escribir por pantalla los atributos definidos del objeto
+        /// 170124 - jzg
+        /// </summary>
+        /// <returns></returns>
         override
         public string ToString()
         {

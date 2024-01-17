@@ -8,12 +8,23 @@ using System.Threading.Tasks;
 
 namespace EJERCICIO6OBLIGATORIO.Servicios
 {
+
+    /// <summary>
+    /// Clase que contien los metodos relacionados con los clientes
+    /// 160124 - jzg
+    /// </summary>
     internal class ClienteImplementacion : ClienteInterfaz
     {
 
         List<ClienteDto> listaCliente = new List<ClienteDto>();
         MenuInterfaz mi = new MenuImplementacion();
 
+        /// <summary>
+        /// Metodo que crea el cliente y lo mete en la lista
+        /// 160124 - jzg
+        /// </summary>
+        /// <param name="listaCliente"></param>
+        /// <returns></returns>
         public List<ClienteDto> altaCliente(List<ClienteDto> listaCliente)
         {
             ClienteDto cliente = new ClienteDto();
@@ -24,7 +35,11 @@ namespace EJERCICIO6OBLIGATORIO.Servicios
             return listaCliente;
         }
 
-
+        /// <summary>
+        /// Metodo pide los valores de los atributos del cliente a crear
+        /// 160124 - jzg
+        /// </summary>
+        /// <returns></returns>
         private ClienteDto crearNuevoCliente() 
         {
 
@@ -49,6 +64,13 @@ namespace EJERCICIO6OBLIGATORIO.Servicios
 
         }
         
+        /// <summary>
+        /// Metodo que ordena la lista de forma descendete segun la edad
+        /// 160124 - jzg
+        /// </summary>
+        /// <param name="listaCliente"></param>
+        /// <returns></returns>
+
         private List<ClienteDto> ordenarCliente(List<ClienteDto> listaCliente)
         {
             // Metodo burbuja
@@ -74,8 +96,13 @@ namespace EJERCICIO6OBLIGATORIO.Servicios
 
         }
 
-        
 
+        /// <summary>
+        /// Metodo que valida si en la lista hay 3 o más clientes
+        /// 160124 - jzg
+        /// </summary>
+        /// <param name="listaCliente"></param>
+        /// <returns></returns>
 
         public List<ClienteDto> validarOrdenarCliente(List<ClienteDto> listaCliente)
         {

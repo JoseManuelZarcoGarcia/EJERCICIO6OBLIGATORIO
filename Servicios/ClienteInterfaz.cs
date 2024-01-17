@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 
 namespace EJERCICIO6OBLIGATORIO.Servicios
 {
+
+    /// <summary>
+    /// Interfaz que implementa los metodos de clientes
+    /// 160124 - jzg
+    /// </summary>
     internal interface ClienteInterfaz
     {
 
